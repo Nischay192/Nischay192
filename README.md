@@ -1,184 +1,97 @@
-<div align="center">
-
 # Nischay Chaitanya
 
-### IT Support · Cloud · Azure Security
+### IT Support | Cloud | Azure Security
 
-**Troubleshooting systems. Building in the cloud. Securing what matters.**
-
-<a href="https://github.com/Nischay192">
-  <img src="https://img.shields.io/badge/GitHub-Nischay192-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/nischay-chaitanya/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-
-</div>
+IT and cloud professional focused on **end-user support, Azure infrastructure, and cloud security**. I enjoy solving technical problems, improving IT workflows, and building practical solutions across the Microsoft ecosystem.
 
 ---
 
-## Whoami
+## About Me
 
-I'm an IT and cloud professional interested in the intersection of **IT support, cloud infrastructure, and security**.
+I have a background in computer science and graduate-level studies, with hands-on experience across:
 
-My focus is on solving practical technical problems across the Microsoft ecosystem — from **Windows and Microsoft 365 support** to **Azure infrastructure, identity, monitoring, and security automation**.
+- IT support and troubleshooting
+- Windows environments and Microsoft 365
+- Azure infrastructure and identity
+- Cloud security and security monitoring
+- Automation with Python and PowerShell
+- Networking, IAM, RBAC, and security controls
 
-```
-IT SUPPORT  ──────►  CLOUD  ──────►  AZURE SECURITY
-   │                    │                    │
-   ├─ Windows           ├─ Azure             ├─ Sentinel
-   ├─ Microsoft 365     ├─ Networking        ├─ Defender
-   ├─ ITSM              ├─ IAM / RBAC        ├─ KQL
-   └─ Troubleshooting   └─ Automation        └─ Zero Trust
-```
+I am particularly interested in roles where **IT support, cloud infrastructure, and security** overlap.
 
 ---
 
-## What I Work With
+## Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="25%">
+**IT Support**  
+Windows | Microsoft 365 | Active Directory | DNS | DHCP | VPN | ITSM | Ticket Management | Technical Documentation
 
-### IT Support
+**Azure & Cloud**  
+Microsoft Azure | Azure VMs | Virtual Networks | NSGs | Entra ID | RBAC | Key Vault | Azure Monitor | Log Analytics | AWS
 
-- Windows
-- Microsoft 365
-- Active Directory
-- DNS / DHCP
-- VPN
-- ITSM
-- Ticket Management
-- Technical Documentation
+**Cloud Security**  
+Microsoft Sentinel | Microsoft Defender | Defender for Cloud | Identity Protection | Conditional Access | KQL | MITRE ATT&CK | CIS Benchmarks | NIST
 
-</td>
-<td valign="top" width="25%">
-
-### Azure & Cloud
-
-- Microsoft Azure
-- Azure VMs
-- Virtual Networks
-- NSGs
-- Entra ID
-- RBAC
-- Key Vault
-- AWS
-
-</td>
-<td valign="top" width="25%">
-
-### Security
-
-- Microsoft Sentinel
-- Microsoft Defender
-- Defender for Cloud
-- KQL
-- Identity Protection
-- Conditional Access
-- MITRE ATT&CK
-- CIS Benchmarks
-
-</td>
-<td valign="top" width="25%">
-
-### Automation
-
-- Python
-- PowerShell
-- SQL
-- Bash
-- Git
-- Terraform
-- Power Automate
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Projects
-
-| Project | What it does |
-|---|---|
-| **[Azure Sentinel Alert Pipeline](https://github.com/Nischay192/Azure-Sentinel-Alert-Pipeline)** | Python + KQL security pipeline with custom detections, severity scoring, and MITRE ATT&CK mapping |
-| **[Azure Posture Scanner](https://github.com/Nischay192/azure-posture-scanner)** | Audits Azure resources against CIS Microsoft Azure Benchmark controls |
-| **[IT Service Desk Ticket Management](https://github.com/Nischay192/it-service-desk-ticket-management)** | IT support workflow for ticket tracking, categorization, and service management |
-| **[Real-Time Data Pipeline](https://github.com/Nischay192/databricks-delta-etl-pipeline)** | Spark Structured Streaming + Delta Lake pipeline processing 500–1,000 records/minute |
-
----
-
-## Currently Building & Learning
-
-```
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   Azure Security        ████████████████░░  →      │
-│   Cloud Infrastructure  ██████████████░░░░  →      │
-│   IT Automation         ████████████░░░░░░  →      │
-│   Microsoft Security    ███████████████░░░  →      │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
-Learning continuously across **Azure security, cloud infrastructure, automation, and IT operations**.
+**Automation & Development**  
+Python | PowerShell | SQL | Bash | Git | Terraform Fundamentals
 
 ---
 
 ## Certifications
 
-<div align="center">
-
-![SC-500](https://img.shields.io/badge/SC--500-Cloud%20%26%20AI%20Security%20Engineer-0078D4?style=flat-square&logo=microsoft)
-![AZ-305](https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect-0078D4?style=flat-square&logo=microsoft)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=flat-square&logo=comptia)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws)
-
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A98F?style=flat-square)
-![AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=flat-square&logo=microsoft)
-![SC-900](https://img.shields.io/badge/Azure-SC--900-0078D4?style=flat-square&logo=microsoft)
-![DP-900](https://img.shields.io/badge/Azure-DP--900-0078D4?style=flat-square&logo=microsoft)
-![AI-900](https://img.shields.io/badge/Azure-AI--900-0078D4?style=flat-square&logo=microsoft)
-
-</div>
+- Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- AWS Certified Cloud Practitioner
+- CompTIA Security+ (SY0-701)
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Google Cybersecurity Professional Certificate
 
 ---
 
-## University Highlights
+## Featured Projects
 
-- **President's Academic Distinction Award** — recognized for academic achievement
-- **Student Leader Award** — extracurricular and student community contributions
-- **2nd Place** — Inter-college Hackathon
-- **Secretary** — Student 3D Printing Club
-- **Student Ambassador** — University of Niagara Falls
+### Azure Sentinel Alert Pipeline
+Python-based security pipeline using Microsoft Sentinel and KQL to detect and prioritize security events.
+
+**Highlights:**  
+5 custom KQL detections | Severity scoring | MITRE ATT&CK mapping
+
+[View Project](https://github.com/Nischay192/Azure-Sentinel-Alert-Pipeline)
+
+### Azure Posture Scanner
+Python-based Azure security assessment tool that evaluates cloud resources against CIS Microsoft Azure Benchmark controls.
+
+**Highlights:**  
+25+ Azure resources | CIS security checks | Automated reporting
+
+[View Project](https://github.com/Nischay192/azure-posture-scanner)
+
+### IT Service Desk Ticket Management
+IT support project focused on ticket tracking, issue categorization, and service desk workflows.
+
+[View Project](https://github.com/Nischay192/it-service-desk-ticket-management)
+
+### Real-Time Data Pipeline
+Streaming pipeline built with Apache Spark Structured Streaming and Delta Lake.
+
+**Highlights:**  
+500–1,000 records/minute | Delta tables | Data transformation
+
+[View Project](https://github.com/Nischay192/databricks-delta-etl-pipeline)
 
 ---
 
-## A Little More About Me
+## Currently Learning
 
-```
-Focus         : IT Support + Cloud + Azure Security
-Cloud         : Azure | AWS
-Security      : Sentinel | Defender | KQL | IAM
-Automation    : Python | PowerShell | Power Automate
-Infrastructure: VMs | Networking | RBAC | Azure services
-```
-
-I like turning **"something isn't working"** into **"here's why it isn't working."**
+Azure security | Cloud infrastructure | Microsoft security ecosystem | Automation | IT operations
 
 ---
 
-<div align="center">
+## Connect
 
-### Let's Connect
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/Nischay192)
 
-<a href="https://github.com/Nischay192">GitHub</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/nischay-chaitanya/">LinkedIn</a>
-
-<br><br>
-
-<sub>Building practical skills across IT support, cloud infrastructure, and Azure security.</sub>
-
-</div>
